@@ -17,8 +17,7 @@ My research focuses on large language model (LLM) reasoning, post-training, and 
 - Aug. 2025: Our paper on [Mitigating Confidence Distortion for Large Language Models](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.902.pdf) is accepted to EMNLP Findings!
 
 ## Publications
-
-{% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **Learning at the Right Pace: Adaptive Data Scheduling Improves LLM Reinforcement Learning** *ArXiv.* [[paper]](https://arxiv.org/abs/2606.22305)
+- **Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models** *ArXiv.* [[paper]](https://arxiv.org/pdf/2604.08527)
+- **DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching.** *ICML 2026.* [[paper]](https://arxiv.org/pdf/2511.00640)
+- **Self-Ensemble: Mitigating Confidence Distortion for Large Language Models.** *EMNLP 2025 Findings.* [[paper]](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.902.pdf)
